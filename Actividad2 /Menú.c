@@ -27,3 +27,5 @@ int main() {
 
     return 0;
 }
+(Para compilar) gcc archivo.c -Wall -o Nombre del ejecutable
+
