@@ -37,3 +37,4 @@ Con este paso añadimos las librerías necesarias y se crea el código fuente
 4. Linker
 ![EXE](/Imagenes/A.Prac%20Ejec.png)
 
+//(Para compilar) gcc archivo.c -Wall -o Nombre del ejecutable
